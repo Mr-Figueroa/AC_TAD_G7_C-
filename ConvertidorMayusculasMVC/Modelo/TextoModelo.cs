@@ -1,4 +1,4 @@
-﻿namespace ConvertidorMayusculasMVC
+﻿namespace ConvertidorMayusculasMVC.Modelo
 {
     public class TextoModelo
     {

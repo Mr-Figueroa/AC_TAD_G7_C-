@@ -1,4 +1,6 @@
-﻿namespace ConvertidorMayusculasMVC
+﻿using ConvertidorMayusculasMVC.Modelo;
+
+namespace ConvertidorMayusculasMVC.Controlador
 {
     public class Controlador
     {
